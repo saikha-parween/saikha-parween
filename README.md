@@ -13,6 +13,7 @@ You can click the Preview link to take a look at your changes.
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikha-parween&exclude_repo=github-readme-stats,saikha-parween.github.io">
 -->
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=saikha-parween&show_icons=true"></p>
+<!--<p align="center"><img src="https://profile-counter.glitch.me/{saikha-parween}/count.svg"></p>-->
 
 <a herf="https://www.linkedin.com/in/saikha-parween/" target="_blank" >
   
