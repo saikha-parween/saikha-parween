@@ -5,10 +5,9 @@ You can click the Preview link to take a look at your changes.
 --->
 <h2 align="center"> Hi there, I'm <strong> Saikha!</strong>👋</h2>
 <img src="https://github.com/saikha-parween/saikha-parween/raw/main/git.gif" align="right" height="50%" width="30%">
-<p> I am a final year student at HIT,Haldia,pursuing my bachelors in Information Technology💻.</p>
+<p> I am a software developer.</p>
 <ul>
-<li>👩‍💻Code: C++,Python,HTML,CSS,TypeScript,Java,and MySQL.</li>
-<li>Frameworks:Angular,Spring.</li>
+<li>Frameworks:Angular,Spring boot,React</li>
 </ul>
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikha-parween&exclude_repo=github-readme-stats,saikha-parween.github.io">
 -->
